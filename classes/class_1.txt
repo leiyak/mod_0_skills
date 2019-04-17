@@ -1,0 +1,11 @@
+Menu_item
+
+Attributes:
+  1. Hot (boolean)
+  2. Expiration_date (datetime)
+  3. Menu_name (string)
+
+Methods:
+  1. use_oven (determines if the oven can be used to heat whatever food is to be prepared - used with "Hot" attribute)
+  2. check_expiration_date (used to make sure you don't serve expired ingredients in your food - used with "Expiration_date" attribute)
+  3. remove_from_menu (removes a non-popular dish from the menu if it's not selling well - used with "Menu_name" attribute)
