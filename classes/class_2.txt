@@ -1,0 +1,11 @@
+Furniture
+
+Attributes:
+  1. Type_of_furniture (string)
+  2. Padding (boolean)
+  3. Chairs_per_square_table (integer)
+
+  Methods:
+  1. check_dining_room_inventory (determines the types of furniture present in the dining room - uses "Type_of_furniture")
+  2. sit_on_chair (determines if the chair needs to be reupholstered - uses "Padding")
+  3. count_chairs (determines if the proper number of chairs are at each table - uses "Chairs_per_square_table")
