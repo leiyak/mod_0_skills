@@ -1,0 +1,11 @@
+Square table
+
+Values for each attribute:
+  1. Type_of_furniture: "square table"
+  2. Padding: No
+  3. Chairs_per_square_table: 4
+
+  Methods:
+  1. check_dining_room_inventory: Determines we have 10 square tables, 40 chairs, and 20 candles in the dining room
+  2. sit_on_furniture: Determines the table isn't broken, but it shouldn't be sat on and doesn't need padding/reupholstery
+  3. count_chairs: Determines that there are enough chairs for the tables in the dining room 
