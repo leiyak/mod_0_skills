@@ -1,0 +1,11 @@
+Brussels Sprouts
+
+Values for each attribute:
+  1. Hot: Yes
+  2. Expiration_date: 04.25.19
+  3. Menu_name: "Steamed Brussels Sprouts"
+
+Method being called:
+  1. use_oven: No, these are steamed on the stove
+  2. check_expiration_date: Expiration date is after today, so use the brussels sprouts
+  3. remove_from_menu: Remove the brussels sprouts from the menu starting tomorrow because everyone knows steamed brussels sprouts smell like farts, and don't taste very good.
