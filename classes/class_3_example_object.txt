@@ -1,0 +1,11 @@
+Object: My VW Golf
+
+Values for each attribute:
+  1. Metered_ride: No
+  2. Number_of_available_seats: 4
+  3. Last_fueled_on: April 17. 2019
+
+Method being called:
+  1. charge_passenger: No, I'm just picking up a friend to go to lunch
+  2. count_passenger: Just 1 (I don't have a lot of friends)
+  3. check_fuel: I'm running a little low, since it's been almost a week since I've refueled and I did go skiing, but I have enough gas to get me to lunch. 
