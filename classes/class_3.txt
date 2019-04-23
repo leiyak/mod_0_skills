@@ -1,0 +1,11 @@
+Class: Vehicle
+
+Attributes:
+  1. Metered_ride (boolean)
+  2. Number_of_available_seats (integer)
+  3. Last_fueled_on (datetime)
+
+  Methods:
+  1. charge_passenger (used to determine if you're charging a passenger for the ride; used with Metered_ride attribute to determine if this person will pay you for driving them or not)
+  2. count_passenger (used to determine the number of people you can pick up at a time; used with Number_of_seats attribute to determine if you'll have enough room)
+  3. check_fuel (used to determine the level of fuel available; used with Last_fueled_on to determine how soon you'll need to fill up again)
